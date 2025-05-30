@@ -2,7 +2,7 @@
 export default function Intro() {
   return (
     <div className="intro-container">
-      <h4>November 1st 2025</h4>
+      <h4>October 17th 2025</h4>
 
       <h1>Our beloved mother turns 80 this year!</h1>
 

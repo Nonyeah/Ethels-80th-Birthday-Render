@@ -7,15 +7,15 @@ export default function Address() {
         
         <div className="time">
           <p className="left">Time</p>
-          <p className="right">5pm to 11pm</p>
+          <p className="right">1pm to 5pm</p>
         </div>
 
         <div className="address">
           <p className="left">Where:</p>
           <ul className="right">
-            <li>Learie Constantine Centre or Churchend & Roundwood Unity Centre (precise location TBC) </li>
-            <li>Dollis Hill/ Church Road Harlesden</li>
-            <li> NW2 5PU/ NW10 9EG</li>
+            <li> Roundwood Unity Centre (precise location TBC) </li>
+            <li>Church Road Harlesden</li>
+            <li> NW10 9PG</li>
           </ul>
         </div>
 
